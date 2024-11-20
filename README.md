@@ -15,6 +15,7 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, bu
 ### My skills include
 
 <p align="center">
+	<img title="Angular" alt="Angular" src="https://github.com/BahaManai/devicon/blob/master/icons/angular/angular-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>

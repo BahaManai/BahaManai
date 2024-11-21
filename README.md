@@ -22,7 +22,7 @@ A Data engineer passionate about Data Science :bar_chart:. I like automating, bu
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="wordpress" alt="wordpress" src="https://github.com/BahaManai/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="ruby" alt="ruby" src="https://github.com/BahaManai/devicon/blob/master/icons/ruby/ruby-original.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="java" alt="java" src=" https://github.com/BahaManai/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="java" alt="java" src="https://github.com/BahaManai/devicon/blob/master/icons/java/java-original.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
  	<img title="javascript" alt="javascript" src="https://github.com/BahaManai/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 
 </p>

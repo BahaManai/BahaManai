@@ -1,43 +1,73 @@
+### Hi there 👋 I'm Baha Eddine Manai
 
-### Hi there 👋 I'm Baha Eddine Manai,
+---
 
-<!--
-A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
--->
-<!--
-- 🌱 I’m currently pursuing **Masters in Data Analytics Engineering at Northeastern University, Boston**
--->
-<!--
-- ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, Anime, Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
--->
-### My skills include
+💻 **Aspiring Full-Stack Developer | Passionate Learner | Problem Solver**
+
+---
+
+### 🌟 About Me
+- 🔭 I’m currently exploring advanced web development techniques and software engineering.
+- 🌱 Constantly learning and applying skills in frameworks, libraries, and modern tech stacks.
+- ✨ Passionate about transforming ideas into user-friendly, impactful software solutions.
+
+---
+
+### 🛠️ My Technical Skills
+
+<div style="display: flex; align-items: center;">
+    <span style="font-weight: bold;">Programming Languages:&nbsp;</span>
+    <img title="PHP" alt="PHP" src="https://github.com/BahaManai/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" />
+    <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
+    <img title="Ruby" alt="Ruby" src="https://github.com/BahaManai/devicon/blob/master/icons/ruby/ruby-original.svg" width="40" height="40" />
+    <img title="Java" alt="Java" src="https://github.com/BahaManai/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" />
+	<img title="JavaScript" alt="JavaScript" src="https://github.com/BahaManai/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+    <img title="C" alt="C" src="https://github.com/BahaManai/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" />
+</div>
+
+<div style="display: flex; align-items: center;">
+    <span style="font-weight: bold;">Frameworks & Libraries:&nbsp;</span>
+	<img title="Ruby on Rails" alt="Ruby on Rails" src="https://github.com/BahaManai/devicon/blob/master/icons/rails/rails-plain.svg" width="40" height="40" />
+    <img title="Angular" alt="Angular" src="https://github.com/BahaManai/devicon/blob/master/icons/angular/angular-original.svg" width="40" height="40" />
+    <img title="Bootstrap" alt="Bootstrap" src="https://github.com/BahaManai/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+</div>
+
+<div style="display: flex; align-items: center;">
+    <span style="font-weight: bold;">Web Technologies:&nbsp;</span>
+    <img title="HTML5" alt="HTML5" src="https://github.com/BahaManai/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
+    <img title="CSS3" alt="CSS3" src="https://github.com/BahaManai/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" />
+    <img title="WordPress" alt="WordPress" src="https://github.com/BahaManai/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" />
+</div>
+
+<div style="display: flex; align-items: center;">
+    <span style="font-weight: bold;">Databases:&nbsp;</span>
+    <img title="SQLite" alt="SQLite" src="https://github.com/BahaManai/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" />
+    <img title="SQL Developer" alt="SQL Developer" src="https://github.com/BahaManai/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
+</div>
+
+<div style="display: flex; align-items: center;">
+    <span style="font-weight: bold;">Tools & Platforms:&nbsp;</span>
+    <img title="VS Code" alt="VS Code" src="https://github.com/BahaManai/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+    <img title="Ubuntu" alt="Ubuntu" src="https://github.com/BahaManai/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40" />
+    <img title="Trello" alt="Trello" src="https://github.com/BahaManai/devicon/blob/master/icons/trello/trello-original.svg" width="40" height="40" />
+    <img title="Canva" alt="Canva" src="https://github.com/BahaManai/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40" />
+    <img title="UML" alt="UML" src="https://github.com/BahaManai/devicon/blob/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="40" height="40" />
+ <img title="Postman" alt="Postman" src="https://github.com/BahaManai/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40" />
+</div>
+
+---
+
+### 📫 Connect with Me  
 
 <p align="center">
-	<img title="PHP" alt="PHP" src="https://github.com/BahaManai/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Angular" alt="Angular" src="https://github.com/BahaManai/devicon/blob/master/icons/angular/angular-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="wordpress" alt="wordpress" src="https://github.com/BahaManai/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="ruby" alt="ruby" src="https://github.com/BahaManai/devicon/blob/master/icons/ruby/ruby-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="java" alt="java" src="https://github.com/BahaManai/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
- 	<img title="javascript" alt="javascript" src="https://github.com/BahaManai/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	 <img title="javascript" alt="javascript" src="https://github.com/BahaManai/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-
-
+	<a target="_blank" href="https://www.linkedin.com/in/baha-eddine-manai-9689bb2a5/">
+		<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+	</a>
+	<a target="_blank" href="mailto:bahaeddinmanai7@gmail.com">
+		<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+	</a>
 </p>
 
-<hr>
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/baha-eddine-manai-9689bb2a5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:bahaeddinmanai7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+---
 
-<br>
-</p>       
+✨ **Let's collaborate and create amazing projects together!** 😊

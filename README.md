@@ -10,6 +10,7 @@
 - 🔭 I’m currently exploring advanced web development techniques and software engineering.
 - 🌱 Constantly learning and applying skills in frameworks, libraries, and modern tech stacks.
 - ✨ Passionate about transforming ideas into user-friendly, impactful software solutions.
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=BahaManai&label=Views&color=blue&style=plastic" alt="BahaManai" /> </p>
 
 ---
 

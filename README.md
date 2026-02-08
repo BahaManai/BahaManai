@@ -1,24 +1,29 @@
 <table>
 <tr>
 <td width="60%">
-	<h1 align="center">Hi 👋, I'm Baha Eddine Manai</h1>
-<h3 align="center">Aspiring Full-Stack Developer • Problem Solver • Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BahaManai&label=Profile%20Views&color=0e75b6&style=flat" alt="BahaManai" />
-</p>
+# Hi there 👋, I'm Baha Eddine Manai
 
-## 🚀 About Me
+### 🚀 Full-Stack Developer & Problem Solver
 
-- 💻 Full-Stack developer in progress with a strong focus on **clean architecture & scalable apps**
-- 🌱 Currently sharpening my skills in **modern frameworks, backend systems & software engineering**
-- 🧠 I enjoy turning complex problems into **simple, user-friendly solutions**
-- ✨ Curious, disciplined, and always learning
+I’m a passionate developer who loves turning ideas into functional and beautiful web and mobile applications.  
+I enjoy exploring modern frameworks and technologies, building scalable architectures, and crafting smooth and intuitive user experiences.  
+
+Solving challenging problems and optimizing processes motivates me every day. I constantly seek to learn and improve my skills in both front-end and back-end development.  
+
+Whether it’s working on complex backend systems, creating interactive interfaces, or collaborating with others on ambitious projects, I focus on writing clean, maintainable code and delivering software that makes a real impact.  
+
+I thrive in environments where creativity meets technical precision, and I’m always eager to take on new challenges that push me to grow as a developer.
+
 </td>
+
+
 <td width="40%" align="center">
-<p align="center">
+
+<p>
   <img src="my_image_caricature.png" alt="Baha coding" width="320"/>
 </p>
+
 </td>
 </tr>
 </table>
@@ -34,27 +39,26 @@
 
 ### ⚙️ Back-End & Full-Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,java,php,symfony,rails,ruby,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,java,php,symfony,rails,ruby" />
 </p>
 
 ### 📱 Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=android,kotlin,react" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react" />
 </p>
 
 ### 🗄️ Databases & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </p>
 
-- SQL • PL/SQL • OLAP
+- SQL • Oracle • PL/SQL • OLAP
 
 ---
 
-## 🧠 Architectures & Methodologies
+## 🧠 Methodologies & Practices
 
-- MVC & Design Patterns  
-- RESTful APIs  
+- RESTful APIs • MVC & Design Patterns  
 - Agile • Scrum • Kanban  
 
 ---
@@ -69,7 +73,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baha-eddine-manai-9689bb2a5/" target="_blank">
@@ -82,5 +86,5 @@
 
 ---
 
-✨ *Open to collaboration, learning opportunities, and ambitious projects.*  
-🚀 *Let’s build something impactful together.*
+✨ *Always learning. Always building. Always exploring.*  
+🚀 *Let’s create something awesome together.*

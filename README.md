@@ -34,7 +34,7 @@ I thrive in environments where creativity meets technical precision, and I’m a
 
 ### 🌐 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular,react,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular,wordpress" />
 </p>
 
 ### ⚙️ Back-End & Full-Stack
@@ -51,7 +51,10 @@ I thrive in environments where creativity meets technical precision, and I’m a
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </p>
-
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+</p>
 - SQL • Oracle • PL/SQL • OLAP
 
 ---

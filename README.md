@@ -39,7 +39,7 @@ I thrive in environments where creativity meets technical precision, and I’m a
 
 ### ⚙️ Back-End & Full-Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,java,php,symfony,rails,ruby,python,c" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,ruby,rails,python,c" />
 </p>
 
 ### 📱 Mobile

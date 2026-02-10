@@ -94,6 +94,7 @@ I thrive in environments where creativity meets technical precision, and I’m a
   <a href="mailto:bahaeddinmanai7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=BahaManai&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---

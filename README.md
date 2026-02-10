@@ -76,6 +76,15 @@ I thrive in environments where creativity meets technical precision, and I’m a
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BahaManai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BahaManai&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <p align="center">

@@ -34,12 +34,12 @@ I thrive in environments where creativity meets technical precision, and I’m a
 
 ### 🌐 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular,wordpress,react" />
 </p>
 
 ### ⚙️ Back-End & Full-Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,ruby,rails,python,c" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,ruby,rails,python,c,fastapi" />
 </p>
 
 ### 📱 Mobile

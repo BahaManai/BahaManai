@@ -21,7 +21,7 @@ I thrive in environments where creativity meets technical precision, and I’m a
 <td width="40%" align="center">
 
 <p>
-  <img src="my_image_caricature.png" alt="Baha coding" width="320"/>
+  <img src="costume_image_ghibli.png" alt="Baha coding" width="320"/>
 </p>
 
 </td>

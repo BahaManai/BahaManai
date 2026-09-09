@@ -116,9 +116,3 @@ I enjoy turning complex ideas into practical products, improving system performa
   </a>
   <img src="https://komarev.com/ghpvc/?username=BahaManai&style=for-the-badge&color=14b8a6" alt="Profile Views"/>
 </div>
-
----
-
-<div align="center">
-  <sub>Always learning. Always building. Always exploring.</sub>
-</div>

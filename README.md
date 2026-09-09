@@ -103,18 +103,6 @@ I enjoy turning complex ideas into practical products, improving system performa
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BahaManai&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BahaManai&background=0d1117&hide_border=true&ring=2dd4bf&fire=22d3ee&currStreakLabel=2dd4bf&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BahaManai&bg_color=0d1117&color=5eead4&line=2dd4bf&point=22d3ee&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ---
 
 ## Let's Connect
